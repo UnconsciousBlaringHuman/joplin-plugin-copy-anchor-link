@@ -22,10 +22,10 @@ span.copy-anchor-icon.clicked::after {
   top: 0;
 }
 
-.cai-oi::before { content: "OI"; }
-.cai-of::before { content: "OF"; }
-.cai-li::before { content: "LI"; }
-.cai-lh::before { content: "LH"; }
-.cai-gi::before { content: "GI"; }
-.cai-gh::before { content: "GH"; }
-.cai-gf::before { content: "GF"; }
+.cai-oi::before { content: " "; }
+.cai-of::before { content: " "; }
+.cai-li::before { content: " "; }
+.cai-lh::before { content: " "; }
+.cai-gi::before { content: " "; }
+.cai-gh::before { content: " "; }
+.cai-gf::before { content: " "; }
